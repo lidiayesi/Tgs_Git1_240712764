@@ -7,3 +7,7 @@ Selasa - Etika Profesi
 Rabu - Pengembangan perangkat lunak agile dan Manajemen Proyek
 
 Kamis - PAW dan PPL
+
+Jumat - Arsitektur Perangkat Lunak, Kewirausahaan, dan Desain Interaksi
+
+Total SKS - 23
